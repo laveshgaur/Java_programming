@@ -1,5 +1,5 @@
 import java.util.*;
-class eligible{
+class eligibility{
     public static void main(String args[]){
         int age;
         Scanner sc = new Scanner(System.in);
