@@ -1,5 +1,5 @@
 import java.util.*;
-class greeting{
+class greeting_using_switch{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("Button 1\nButton 2\nButton 3\n");
