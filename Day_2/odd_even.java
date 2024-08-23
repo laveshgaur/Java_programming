@@ -1,5 +1,5 @@
 import java.util.*;
-class evenodd{
+class odd_even{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number : ");
