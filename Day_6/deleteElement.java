@@ -17,6 +17,7 @@ class deleteElement{
                     arr[j]=arr[j+1];
                 }
                 arr[n-1]=0;
+                n--;
                 break;
             }
             if(n-1==i){
@@ -24,8 +25,8 @@ class deleteElement{
             }
         }
         System.out.print("New array : ");
-        for(int x:arr){
-            System.out.print(x+" ");
+        for(int i=0;i<n;i++){
+            System.out.print(arr[i]+" ");
         }
         System.out.println();
     }
