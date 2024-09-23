@@ -15,6 +15,7 @@ class variableArguments{
         int d = sc.nextInt();
         int e = sc.nextInt();
         show(a,b,c,d,e);
+        show(new int[]{1,2,3,4,5,6,7});
         sc.close();
     }
 }
