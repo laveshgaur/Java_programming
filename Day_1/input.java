@@ -17,6 +17,8 @@ class input{
         System.out.print("Enter b number : ");
         int b = add.nextInt();
         System.out.println(a+b);
-
+        sc.close();
+        sc1.close();
+        add.close();
     }
 }
