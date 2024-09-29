@@ -12,6 +12,6 @@ class pattern_8{
             }
             System.out.println();
         }
-
+        sc.close();
     }
 }

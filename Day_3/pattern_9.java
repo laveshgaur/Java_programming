@@ -4,7 +4,6 @@ class pattern_9{
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of lines : ");
         int n = sc.nextInt();
-        int count=1;
         for(int i=1;i<=n;i++){
             for(int j=1;j<=i;j++){
                 if((i+j)%2==0){
@@ -16,5 +15,6 @@ class pattern_9{
             }
             System.out.println();
         }
+        sc.close();
     }   
 }

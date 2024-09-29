@@ -18,5 +18,6 @@ class function{
             int ans = factorialFuncton(a);
             System.out.println("Factorial is "+ans);
         }
+        sc.close();
     }
 }

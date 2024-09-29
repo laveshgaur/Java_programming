@@ -11,5 +11,6 @@ class eligibility{
         else{
             System.out.println("Sorry you are not eligible");
         }
+        sc.close();
     }
 }

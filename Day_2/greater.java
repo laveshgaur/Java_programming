@@ -16,5 +16,6 @@ class greater{
         else{
             System.out.println("b is greater");
         }
+        sc.close();
     }
 }

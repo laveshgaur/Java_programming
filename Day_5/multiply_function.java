@@ -11,5 +11,6 @@ class functon{
         int b = sc.nextInt();
         int ans = multiplyFuncton(a, b);
         System.out.println("Multiply is "+ans);
+        sc.close();
     }
 }

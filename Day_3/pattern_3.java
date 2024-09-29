@@ -10,6 +10,6 @@ class pattern_3{
             }
             System.out.println();
         }
-
+        sc.close();
     }
 }

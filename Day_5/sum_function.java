@@ -10,5 +10,6 @@ class functon{
         System.out.print("Enter second number : ");
         int b = sc.nextInt();
         sumfuncton(a, b);
+        sc.close();
     }
 }

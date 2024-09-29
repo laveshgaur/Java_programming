@@ -10,5 +10,6 @@ class do_while_loop{
             i++;
         }while(i<=n);/*it will do the work first then check the condition
 it means it will work at least one time either the condition is true or not.*/
+        sc.close();
     }
 }

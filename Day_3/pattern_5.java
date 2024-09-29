@@ -13,6 +13,6 @@ class pattern_5{
             }
             System.out.println();
         }
-
+        sc.close();
     }
 }

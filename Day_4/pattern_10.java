@@ -29,5 +29,6 @@ class pattern_10{
             }
             System.out.println();
         }
+        sc.close();
     }
 }

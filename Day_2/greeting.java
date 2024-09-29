@@ -18,5 +18,6 @@ class greeting{
         else{
             System.out.println("Invalid button");
         }
+        sc.close();
     }
 }

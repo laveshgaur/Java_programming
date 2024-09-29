@@ -9,6 +9,6 @@ class while_loop{
             System.out.println(i);
             i++;
         }
-
+        sc.close();
     }
 }

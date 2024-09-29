@@ -14,5 +14,6 @@ class greeting_using_switch{
             break;
             default:System.out.println("Invalid button");
         }
+        sc.close();
     }
 }

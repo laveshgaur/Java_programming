@@ -10,6 +10,6 @@ class natural_number_sum{
         }
         System.out.print("Sum is : ");
         System.out.println(sum);
-
+        sc.close();
     }
 }

@@ -1,6 +1,6 @@
 import java.util.*;
 class function{
-    public static void printMyName(String name){
+    static void printMyName(String name){
         System.out.println(name);
     }
     public static void main(String args[]){
@@ -8,5 +8,6 @@ class function{
         System.out.print("Enter Your Name : ");
         String name = sc.next();
         printMyName(name);
+        sc.close();
     }
 }
