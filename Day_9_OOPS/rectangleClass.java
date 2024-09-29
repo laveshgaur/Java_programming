@@ -19,6 +19,6 @@ class rectangleClass{
         r.b=b;
         System.out.println("Area of rectangle is : "+r.area());
         System.out.println("Perimeter is : "+r.perimeter());
+        sc.close();
     }
-    
 }
