@@ -1,5 +1,5 @@
 import java.util.*;
-class function{
+class function_1{
     static void printMyName(String name){
         System.out.println(name);
     }

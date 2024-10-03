@@ -19,5 +19,6 @@ class arr1{
             System.out.print(a[i]+" ");
         }
         System.out.println("\nIt means default elements are 0");
+        sc.close();
     }
 }

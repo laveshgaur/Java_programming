@@ -1,5 +1,5 @@
 import java.util.*;
-class function{
+class factorial_function{
     public static int factorialFuncton(int a){
         int ans = 1;
         for(int i=1;i<=a;i++){

@@ -1,5 +1,5 @@
 import java.util.*;
-class functon{
+class sum_functon{
     public static void sumfuncton(int a, int b){
         System.out.println("Sum is "+(a+b));
     }

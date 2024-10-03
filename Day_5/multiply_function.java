@@ -1,5 +1,5 @@
 import java.util.*;
-class functon{
+class multiply_functon{
     public static int multiplyFuncton(int a, int b){
         return a*b;
     }
