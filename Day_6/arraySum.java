@@ -14,5 +14,6 @@ class arraySum{
             sum+=x;
         }
         System.out.println("Sum of array is : "+sum);
+        sc.close();
     }
 }
